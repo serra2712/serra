@@ -4,15 +4,15 @@ body {
   font-family: "Helvetica", "Arial", sans-serif;
   line-height: 1.5;
   padding: 5em 3em;
-  color: #bbb;
-  background-color: #a4a9c3;
+  color: #222;
+  background-color: #654321;
 }
 
 h2 {
-  margin-top: 7em;
-  padding-top: 7em;
+  margin-top: 2em;
+  padding-top: 6em;
 }
 
 h1, h5, strong {
-  color: #eee;
+  color: #bbb;
 }
