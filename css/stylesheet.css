@@ -1,11 +1,11 @@
 body { 
   margin: 5 auto;
   max-width: 10em;
-  font-family: "Helvetica", "Arial", sans-serif;
+  font-family: "Helvetica", "Pragmatica", sans-serif;
   line-height: 1.5;
   padding: 5em 3em;
-  color: #222;
-  background-color: #654321;
+  color: #666;
+  background-color: #FFFFFF;
 }
 
 h2 {
@@ -14,5 +14,5 @@ h2 {
 }
 
 h1, h5, strong {
-  color: #bbb;
+  color: #333;
 }
